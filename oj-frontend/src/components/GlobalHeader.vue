@@ -11,15 +11,10 @@
           :style="{ padding: 0, marginRight: '38px' }"
           disabled
         >
-          <div
-            :style="{
-              width: '80px',
-              height: '30px',
-              borderRadius: '2px',
-              background: 'var(--color-fill-3)',
-              cursor: 'text',
-            }"
-          />
+          <div class="title-bar">
+            <img class="logo" src="../assets/oj-logo.png" alt="OJ平台Logo" />
+            <div class="title">CodeJudge</div>
+          </div>
         </a-menu-item>
         <a-menu-item v-for="item in visibleRoutes" :key="item.path">
           {{ item.name }}
@@ -88,4 +83,19 @@ const doMenuClick = (key: string) => {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.title-bar {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 64px;
+  height: 64px;
+  margin-right: 8px;
+  object-fit: contain;
+}
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}
+</style>
