@@ -12,7 +12,9 @@
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.6.4",
-    "vuex": "^4.0.0"
+    "vuex": "^4.0.0",
+    "bytemd": "^1.21.0",
+    "svelte": "^3.59.0"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.57.0",
@@ -31,6 +33,9 @@
     "eslint-plugin-vue": "^8.0.3",
     "openapi-typescript-codegen": "^0.29.0",
     "prettier": "^2.4.1",
-    "typescript": "~4.5.5"
+    "typescript": "~4.5.5",
+    "@bytemd/plugin-gfm": "^1.21.0",
+    "@bytemd/plugin-highlight": "^1.21.0",
+    "@bytemd/vue-next": "^1.21.0"
   }
 }

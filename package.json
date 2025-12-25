@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@bytemd/plugin-gfm": "^1.22.0",
+    "@bytemd/plugin-highlight": "^1.22.0",
+    "@bytemd/vue-next": "^1.22.0",
+    "bytemd": "^1.22.0",
+    "monaco-editor": "^0.55.1",
+    "monaco-editor-webpack-plugin": "^7.1.1",
+    "svelte": "^5.46.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-class-static-block": "^7.28.3"
+  }
+}

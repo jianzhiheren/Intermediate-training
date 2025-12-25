@@ -5,156 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a62916e-850e-4216-95ff-1cdd2dfe5cf6" name="更改" comment="Delete oj-backend directory">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-frontend/src/components/CodeEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-frontend/src/components/MdEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oj-frontend/src/views/ExampleView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f62825fe-7ee7-4492-ae3c-a63cbf511363.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f62825fe-7ee7-4492-ae3c-a63cbf511363/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f62825fe-7ee7-4492-ae3c-a63cbf511363/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f62825fe-7ee7-4492-ae3c-a63cbf511363/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f62825fe-7ee7-4492-ae3c-a63cbf511363/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/sql/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/sql/create_table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/sql/post_es_mapping.json" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/sql/post_es_mapping.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/java/com/group38/oj/config/MyBatisPlusConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/java/com/group38/oj/constant/FileConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/java/com/group38/oj/controller/WxMpController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/application-test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostFavourMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostFavourMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostThumbMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/PostThumbMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/application-test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/MainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/annotation/AuthCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/aop/AuthInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/aop/LogInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/common/BaseResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/common/DeleteRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/common/ErrorCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/common/PageRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/common/ResultUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/config/CorsConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/config/CosClientConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/config/JsonConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/config/MyBatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/config/WxOpenConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/constant/CommonConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/constant/FileConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/constant/UserConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/FileController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/PostController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/PostFavourController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/PostThumbController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/controller/WxMpController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/esdao/PostEsDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/exception/BusinessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/exception/ThrowUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/generate/CodeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/job/cycle/IncSyncPostToEs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/job/once/FullSyncPostToEs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/manager/CosManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/mapper/PostFavourMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/mapper/PostMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/mapper/PostThumbMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/file/UploadFileRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/post/PostAddRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/post/PostEditRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/post/PostEsDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/post/PostQueryRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/post/PostUpdateRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/postfavour/PostFavourAddRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/postfavour/PostFavourQueryRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/postthumb/PostThumbAddRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserAddRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserLoginRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserQueryRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserRegisterRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserUpdateMyRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/dto/user/UserUpdateRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/entity/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/entity/PostFavour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/entity/PostThumb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/enums/FileUploadBizEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/enums/UserRoleEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/vo/LoginUserVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/vo/PostVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/model/vo/UserVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/PostFavourService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/PostService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/PostThumbService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/impl/PostFavourServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/impl/PostServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/impl/PostThumbServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/utils/NetUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/utils/SpringContextUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/utils/SqlUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/wxmp/WxMpConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/wxmp/WxMpMsgRouter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/wxmp/handler/EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/wxmp/handler/MessageHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/com/group38/oj/wxmp/handler/SubscribeHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostFavourMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostFavourMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostThumbMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/mapper/PostThumbMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oj-backend/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/TemplateController.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/TemplateService.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/TemplateServiceImpl.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/model/TemplateAddRequest.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/model/TemplateEditRequest.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/model/TemplateQueryRequest.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/model/TemplateUpdateRequest.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/classes/templates/model/TemplateVO.java.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/MainApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/manager/CosManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/mapper/PostFavourMapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/mapper/PostMapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/service/PostFavourServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/service/PostThumbServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/service/UserServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-backend/target/test-classes/com/group38/oj/utils/EasyExcelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-frontend/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/babel.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/access/accessEnum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/access/accessEnum.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/access/checkAccess.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/access/checkAccess.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/components/GlobalHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/components/GlobalHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/layouts/BasicLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/layouts/BasicLayout.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/router/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-frontend/src/router/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/router/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/shims-vue-router.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/shims-vue-router.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/shims-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/shims-vue.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/store/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/store/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/views/AboutView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/views/AboutView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/views/AdminView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/views/AdminView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/views/HomeView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oj-frontend/src/views/NoAuthView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/src/views/NoAuthView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-frontend/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oj-frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oj-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/oj-frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -172,8 +56,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Carl-Ash/Intermediate-training.git&quot;,
-    &quot;accountId&quot;: &quot;b2857e72-cf44-4786-b02f-807770bb3f10&quot;
+    &quot;url&quot;: &quot;https://github.com/jianzhiheren/Intermediate-training.git&quot;,
+    &quot;accountId&quot;: &quot;31a7f1dc-5b3b-4616-a89f-96d335170c59&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -184,62 +68,90 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/16646/Desktop/实训/Intermediate-training&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 调试.api-docs.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MainApplication.executor": "Run",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/16646/Desktop/实训/Intermediate-training",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Program Files/nodejs/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.serve.executor": "Run",
+    "settings.editor.selected.configurable": "Settings.JavaScript",
+    "ts.external.directory.path": "D:\\my-github\\Intermediate-training\\oj-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.MainApplication.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "vue.recent.templates": [
+      "Vue Composition API Component"
     ]
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript 调试.api-docs">
+    <configuration name="api-docs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8121/api/v2/api-docs">
+      <method v="2" />
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="oj-backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.group38.oj.MainApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.group38.oj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/oj-frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="C:/Program Files/nodejs/node" />
+      <envs />
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JavaScript 调试.api-docs" />
+        <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="逻辑" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -255,6 +167,20 @@
       <workItem from="1766152889350" duration="147000" />
       <workItem from="1766153064632" duration="191000" />
       <workItem from="1766153299376" duration="12000" />
+      <workItem from="1766580274010" duration="1558000" />
+      <workItem from="1766581853009" duration="707000" />
+      <workItem from="1766585377673" duration="236000" />
+      <workItem from="1766585632811" duration="623000" />
+      <workItem from="1766586490329" duration="312000" />
+      <workItem from="1766586896214" duration="1054000" />
+      <workItem from="1766587976157" duration="30000" />
+      <workItem from="1766588149778" duration="809000" />
+      <workItem from="1766588971467" duration="173000" />
+      <workItem from="1766589282385" duration="274000" />
+      <workItem from="1766589574696" duration="378000" />
+      <workItem from="1766590042872" duration="513000" />
+      <workItem from="1766590574277" duration="5683000" />
+      <workItem from="1766666185512" duration="7648000" />
     </task>
     <task id="LOCAL-00001" summary="backend">
       <option name="closed" value="true" />
@@ -293,5 +219,13 @@
     <MESSAGE value="backend" />
     <MESSAGE value="Delete oj-backend directory" />
     <option name="LAST_COMMIT_MESSAGE" value="Delete oj-backend directory" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
